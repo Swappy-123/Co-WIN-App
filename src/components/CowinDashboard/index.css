@@ -1,0 +1,65 @@
+/* Write your CSS here */
+.bg {
+  background-color: black;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+}
+
+.head-bg {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  margin: 5px;
+}
+
+.img {
+  height: 30px;
+  width: 30px;
+  margin-right: 5px;
+}
+
+.heading {
+  color: #2cc6c6;
+  font-size: 25px;
+  font-weight: bold;
+  margin: 5px;
+  font-family: 'Roboto';
+}
+
+.para {
+  color: #cbd5e1;
+  font-size: 20px;
+  margin: 5px;
+  font-family: 'Roboto';
+}
+
+.failure-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 12px;
+}
+
+.failure-head {
+  font-size: 36px;
+  color: white;
+  font-weight: bold;
+  font-family: 'Roboto';
+  margin: 12px;
+}
+
+.img {
+  height: 100px;
+  width: 100px;
+  margin: 8px;
+}
+
+.con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

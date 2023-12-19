@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.age-bg {
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+
+  padding: 5px;
+}
+
+.age-para {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 25px;
+  justify-content: flex-start;
+  margin: 12px;
+}
